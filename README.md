@@ -5,6 +5,8 @@ Check out my current project:  [Looseleaf Galaxy](http://www.looseleafgalaxy.spa
 
 I built the front-end using React and Redux. The backend uses NodeJs and MongoDB.
 
+![Looseleaf Galaxy Screenshot](./looseleaf_galaxy1.png)
+
 Some key features: 
 
 Frontend:
@@ -19,7 +21,10 @@ Backend:
 - Player data stored on MongoDB.
 
 
+![Looseleaf Galaxy Screenshot](./looseleaf_galaxy3.png)
+_Prices fluctuate in real time!_
 
+Have Fun!
 
 
 
