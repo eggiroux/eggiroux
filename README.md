@@ -15,6 +15,8 @@ Some key features:
 Frontend:
 - An adorable space clicker game where you mine resources and sell them when the price is as high as possible.
 - Buy resources when they are low, sell when they are high.
+- Manage your limited inventory to cash in when the opportunity arises!
+- Upgrade your shoddy little space ship to travel the galaxy, and to store more cargo!
 - Random sectors generated when hopping around the galaxy.
 
 Backend:
