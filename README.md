@@ -1,5 +1,8 @@
 
 ## Welcome to my github profile!
+My name is Etienne Giroux (he/him), I'm a recent graduate from a full-stack web development bootcamp at Concordia University in Montreal.
+
+Here is my [LinkedIn profile!](https://www.linkedin.com/in/egiroux/)
 
 Check out my current project:  [Looseleaf Galaxy](http://www.looseleafgalaxy.space) 🚀 
 
@@ -20,12 +23,11 @@ Backend:
 - Game data (prices and some game logic) stored on MongoDB.
 - Player data stored on MongoDB.
 
-
+_In Looseleaf Galaxy, prices fluctuate in real time!_
 ![Looseleaf Galaxy Screenshot](./looseleaf_galaxy3.png)
-_Prices fluctuate in real time!_
 
-Have Fun!
 
+I hope you have fun!
 
 
 <!--
