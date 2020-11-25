@@ -13,9 +13,10 @@ Frontend:
 - Random sectors generated when hopping around the galaxy.
 
 Backend:
-- My own auth server (using bcrypt and jason web tokens)
 - A live server for resource market prices that update every hours based on a Google Trends API query.
-- Player and Game data saved on MongoDB.
+- My own auth server (using bcrypt and jason web tokens)
+- Game data (prices and some game logic) stored on MongoDB.
+- Player data stored on MongoDB.
 
 
 
