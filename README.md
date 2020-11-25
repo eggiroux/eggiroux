@@ -6,9 +6,10 @@ Here is my [LinkedIn profile!](https://www.linkedin.com/in/egiroux/)
 
 Check out my current project:  [Looseleaf Galaxy](http://www.looseleafgalaxy.space) 🚀 
 
+![Looseleaf Galaxy Screenshot](./looseleaf_galaxy1.png)
+
 I built the front-end using React and Redux. The backend uses NodeJs and MongoDB.
 
-![Looseleaf Galaxy Screenshot](./looseleaf_galaxy1.png)
 
 Some key features: 
 
@@ -18,6 +19,10 @@ Frontend:
 - Manage your limited inventory to cash in when the opportunity arises!
 - Upgrade your shoddy little space ship to travel the galaxy, and to store more cargo!
 - Random sectors generated when hopping around the galaxy.
+
+
+_Trade all sorts of space resources to make space profits and upgrade your ship!!_
+![Looseleaf Galaxy Screenshot](./looseleaf_galaxy4.png)
 
 Backend:
 - A live server for resource market prices that update every hours based on a Google Trends API query.
