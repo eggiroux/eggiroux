@@ -31,7 +31,7 @@ Backend:
 - Player data stored on MongoDB.
 
 _In Looseleaf Galaxy, prices fluctuate in real time!_
-![Looseleaf Galaxy Screenshot](./looseleaf_galaxy3.png)
+![Looseleaf Galaxy Screenshot](./looseleaf_galaxy31.png)
 
 
 I hope you have fun!
