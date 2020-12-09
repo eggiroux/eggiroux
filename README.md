@@ -26,7 +26,7 @@ _Trade all sorts of space resources to make space profits and upgrade your ship!
 
 Backend:
 - A live server for resource market prices that update every hours based on a Google Trends API query.
-- My own auth server (using bcrypt and jason web tokens)
+- My own auth server (using bcrypt and jason web tokens) -- made available in my repos for easy reuse in the future.
 - Game data (prices and some game logic) stored on MongoDB.
 - Player data stored on MongoDB.
 
